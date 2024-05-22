@@ -458,5 +458,9 @@
       "code": "1",
       "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
       "nama": "ALL\nSport"
+    },
+    {
+      "version_name": "0.2.7",
+      "version_code": "27"
     }
 ]
