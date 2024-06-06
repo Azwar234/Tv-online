@@ -1,13 +1,43 @@
 [
     {
       "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch390%29/index.m3u8",
-      "nama": "antv"
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
+      "nama": "Antv"
+    },
+    {
+      "code": "2",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8",
+      "nama": "Indosiar"
+    },
+    {
+      "code": "2",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
+      "nama": "sctv"
     },
     {
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8",
       "nama": "nettv"
+    },
+    {
+      "code": "2",
+      "link": "https://video.sindonews.com/tvshow/3?embedid=3",
+      "nama": "MNCTV"
+    },
+    {
+      "code": "2",
+      "link": "https://video.sindonews.com/tvshow/1?embedid=1",
+      "nama": "RCTI"
+    },
+    {
+      "code": "2",
+      "link": "https://video.sindonews.com/tvshow/2?embedid=2",
+      "nama": "GTV"
+    },
+    {
+      "code": "2",
+      "link": "https://video.sindonews.com/tvshow/4?embedid=4",
+      "nama": "INEWS"
     },
     {
       "code": "1",
@@ -38,6 +68,11 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8",
       "nama": "TVRI\nsport"
+    },
+    {
+      "code": "1",
+      "link": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8",
+      "nama": "TVRI\nWord "
     },
     {
       "code": "2",
@@ -71,23 +106,28 @@
     },
     {
       "code": "1",
+      "link": "https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8",
+      "nama": "liputan 6"
+    },
+    {
+      "code": "1",
+      "link": "https://jawapostv.siar.us/jawapostv/live/playlist.m3u8",
+      "nama": "Jawa\npos"
+    },
+    {
+      "code": "1",
       "link": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
       "nama": "metro\nglobal"
     },
     {
       "code": "1",
-      "link": "https://v2.siar.us/jawapostv/live/chunks.m3u8",
-      "nama": "Jawa\npos"
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch389%29/index.m3u8",
-      "nama": "IDX"
+      "link": "https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8",
+      "nama": "lejel home\nshoping"
     },
     {
       "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8",
-      "nama": "Rtv"
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8",
+      "nama": "Life\nStyle"
     },
     {
       "code": "1",
@@ -111,8 +151,13 @@
     },
     {
       "code": "1",
-      "link": "https://e1.siar.us/badartv/live/playlist.m3u8",
-      "nama": "BRTV"
+      "link": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+      "nama": "madu\nTV"
+    },
+    {
+      "code": "1",
+      "link": "https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8",
+      "nama": "Garuda\nTV"
     },
     {
       "code": "1",
@@ -121,13 +166,8 @@
     },
     {
       "code": "1",
-      "link": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
-      "nama": "madu\nTV"
-    },
-    {
-      "code": "1",
-      "link": "https://v2.siar.us/bmstv/livestream/playlist.m3u8",
-      "nama": "BMS\nTV"
+      "link": "https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8",
+      "nama": "TV\nkediri"
     },
     {
       "code": "1",
@@ -141,37 +181,23 @@
     },
     {
       "code": "1",
+      "link": 
+"https://e.siar.us/live/surabayatv.m3u8",
+      "nama": "Surabaya"
+    },
+    {
+      "code": "1",
       "link": "http://117.103.69.219:8080/live/streaming/index.m3u8",
       "nama": "Batu\nTV"
     },
     {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch334%29/index.m3u8",
-      "nama": "Citra\nMuslim"
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch377%29/index.m3u8",
-      "nama": "Citra\nDangdut "
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch378%29/index.m3u8",
-      "nama": "Citra\nDrama"
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch376%29/index.m3u8",
-      "nama": "Citra\nBioskop"
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch17%29/Stream(02)/index.m3u8",
-      "nama": "jtv"
+      "code": "2",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8",
+      "nama": "moji"
     },
     {
       "code": "2",
-      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s13/S4/mnf.m3u8",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8",
       "nama": "JAKTV"
     },
     {
@@ -206,13 +232,13 @@
     },
     {
       "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch45%29/Stream(02)/index.m3u8",
+      "link": "https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8",
       "nama": "Garuda\nTV"
     },
     {
       "code": "1",
-      "link": "https://v2.siar.us/aditv/livestream/chunks.m3u8",
-      "nama": "ADI\nTV"
+      "link": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
+      "nama": "SAKTI\nTV"
     },
     {
       "code": "2",
@@ -236,8 +262,28 @@
     },
     {
       "code": "1",
+      "link": "https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8",
+      "nama": "Fatwa\nTV"
+    },
+    {
+      "code": "1",
       "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
       "nama": "Wesal\nTV"
+    },
+    {
+      "code": "1",
+      "link": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
+      "nama": "izzah"
+    },
+    {
+      "code": "1",
+      "link": "https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8",
+      "nama": "Rasyaad\nTV"
+    },
+    {
+      "code": "1",
+      "link": "https://ythls.armelin.one/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8",
+      "nama": "Media\nsunnah\naceh"
     },
     {
       "code": "1",
@@ -266,22 +312,12 @@
     },
     {
       "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch375%29/index.m3u8",
-      "nama": "Horee!"
-    },
-    {
-      "code": "1",
       "link": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8",
       "nama": "spacetoon"
     },
     {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch52%29/Stream(02)/index.m3u8",
-      "nama": "Animax"
-    },
-    {
       "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8",
       "nama": "Aniplus"
     },
     {
@@ -305,6 +341,21 @@
       "nama": "Knowledge"
     },
     {
+      "code": "1",
+      "link": "https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8",
+      "nama": "Animal\nplanet"
+    },
+    {
+      "code": "1",
+      "link": "https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8",
+      "nama": "Discovery\nchannel"
+    },
+    {
+      "code": "1",
+      "link": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8",
+      "nama": "DMAX"
+    },
+    {
       "code": "2",
       "link": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8",
       "nama": "NaDoo\nKOREAN"
@@ -316,8 +367,8 @@
     },
     {
       "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch161%29/Stream(02)/index.m3u8",
-      "nama": "ZEE\nBIOSKOP"
+      "link": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
+      "nama": "Sony\npix"
     },
     {
       "code": "2",
@@ -326,12 +377,12 @@
     },
     {
       "code": "2",
-      "link": "https://op-group2-swiftservehd-1.dens.tv/h/h16/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8",
       "nama": "Rock\nentertainment"
     },
     {
       "code": "2",
-      "link": "https://op-group2-swiftservehd-1.dens.tv/h/h15/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8",
       "nama": "Rock\nAction"
     },
     {
@@ -351,13 +402,18 @@
     },
     {
       "code": "2",
-      "link": "https://op-group2-swiftservehd-1.dens.tv/h/h14/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8",
       "nama": "celestial"
     },
     {
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8",
       "nama": "K+"
+    },
+    {
+      "code": "2",
+      "link": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8",
+      "nama": "KBS\nworld"
     },
     {
       "code": "2",
@@ -371,17 +427,17 @@
     },
     {
       "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8",
       "nama": "HITS\nMovie"
     },
     {
       "code": "2",
-      "link": "https://op-group2-swiftservehd-1.dens.tv/h/h20/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8",
       "nama": "TVN"
     },
     {
       "code": "2",
-      "link": "https://op-group2-swiftservehd-1.dens.tv/h/h21/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8",
       "nama": "TVN\nMovie"
     },
     {
@@ -406,12 +462,12 @@
     },
     {
       "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h09/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8",
       "nama": "M+"
     },
     {
       "code": "2",
-      "link": "https://op-group2-swiftservehd-1.dens.tv/h/h05/02.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8",
       "nama": "Fight\nSport"
     },
     {
@@ -423,16 +479,6 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8",
       "nama": "Horizon\nSport"
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch329%29/index.m3u8",
-      "nama": "SPOTV"
-    },
-    {
-      "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch3300%29/index.m3u8",
-      "nama": "SPOTV2"
     },
     {
       "code": "2",
