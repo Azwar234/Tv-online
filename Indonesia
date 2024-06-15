@@ -106,11 +106,6 @@
     },
     {
       "code": "1",
-      "link": "http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch2%29/index.m3u8",
-      "nama": "jakarta\nglobe"
-    },
-    {
-      "code": "1",
       "link": "https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8",
       "nama": "liputan 6"
     },
@@ -200,6 +195,11 @@
       "nama": "moji"
     },
     {
+      "code": "1",
+      "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8",
+      "nama": "celebes"
+    },
+    {
       "code": "2",
       "link": "https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8",
       "nama": "JAKTV"
@@ -251,6 +251,11 @@
     },
     {
       "code": "1",
+      "link": "https://v6.siar.us/pujatv/live/chunks.m3u8",
+      "nama": "puja\ntv aceh"
+    },
+    {
+      "code": "1",
       "link": "https://streaming.yufid.com/hls/artvisi.m3u8",
       "nama": "Artvisi"
     },
@@ -276,8 +281,8 @@
     },
     {
       "code": "1",
-      "link": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
-      "nama": "izzah"
+      "link": "https://tv.aliman.id/aliman/live.m3u8",
+      "nama": "Al -iman"
     },
     {
       "code": "1",
@@ -300,6 +305,16 @@
       "nama": "TV\nkesehatan"
     },
     {
+      "code": "1",
+      "link": "http://103.30.1.14:8080/hls/live.m3u8",
+      "nama": "TVku"
+    },
+    {
+      "code": "1",
+      "link": "https://e.siar.us/live/aktv.m3u8",
+      "nama": "AkTv"
+    },
+    {
       "code": "2",
       "link": "https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8",
       "nama": "Madinah"
@@ -318,6 +333,11 @@
       "code": "1",
       "link": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8",
       "nama": "spacetoon"
+    },
+    {
+      "code": "1",
+      "link": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "nama": "monbug\nkids"
     },
     {
       "code": "2",
@@ -346,16 +366,6 @@
     },
     {
       "code": "1",
-      "link": "https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8",
-      "nama": "Animal\nplanet"
-    },
-    {
-      "code": "1",
-      "link": "https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8",
-      "nama": "Discovery\nchannel"
-    },
-    {
-      "code": "1",
       "link": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8",
       "nama": "DMAX"
     },
@@ -370,13 +380,8 @@
       "nama": "NaDoo\nCOMMERCE"
     },
     {
-      "code": "1",
-      "link": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
-      "nama": "Sony\npix"
-    },
-    {
       "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8",
       "nama": "Crema\nTV"
     },
     {
@@ -388,11 +393,6 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8",
       "nama": "Rock\nAction"
-    },
-    {
-      "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8",
-      "nama": "cinema\nworld"
     },
     {
       "code": "2",
@@ -423,16 +423,6 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8",
       "nama": "thrill"
-    },
-    {
-      "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8",
-      "nama": "HITS"
-    },
-    {
-      "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8",
-      "nama": "HITS\nMovie"
     },
     {
       "code": "2",
