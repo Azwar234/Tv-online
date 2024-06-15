@@ -356,6 +356,21 @@
     },
     {
       "code": "2",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8",
+      "nama": "CCTV-4"
+    },
+    {
+      "code": "2",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s20/02.m3u8",
+      "nama": "CGTN"
+    },
+    {
+      "code": "2",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h23/02.m3u8",
+      "nama": "NHK\nWorld"
+    },
+    {
+      "code": "2",
       "link": "https://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8",
       "nama": "DW"
     },
@@ -413,6 +428,11 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8",
       "nama": "K+"
+    },
+    {
+      "code": "2",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8",
+      "nama": "KBS\nkorea"
     },
     {
       "code": "1",
