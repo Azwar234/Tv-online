@@ -340,6 +340,26 @@
       "nama": "monbug\nkids"
     },
     {
+      "code": "1",
+      "link": "https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
+      "nama": "Cartoon\nNetwork"
+    },
+    {
+      "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch107.m3u8",
+      "nama": "Viva\nTV"
+    },
+    {
+      "code": "2",
+      "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "nama": "Dora\nTV"
+    },
+    {
+      "code": "1",
+      "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "nama": "Zoo\nMoo"
+    },
+    {
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8",
       "nama": "Aniplus"
