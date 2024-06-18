@@ -365,6 +365,26 @@
       "nama": "Aniplus"
     },
     {
+      "code": "1",
+      "link": "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8",
+      "nama": "TV3\nmalaysia"
+    },
+    {
+      "code": "1",
+      "link": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+      "nama": "Dunia sinema\nmalaysia"
+    },
+    {
+      "code": "1",
+      "link": "https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8",
+      "nama": "TV8\nmalaysia"
+    },
+    {
+      "code": "1",
+      "link": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
+      "nama": "Astro awani\nmalaysia"
+    },
+    {
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8",
       "nama": "MCE"
