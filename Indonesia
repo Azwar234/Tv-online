@@ -126,6 +126,11 @@
     },
     {
       "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch10.m3u8",
+      "nama": "Niaga\nTV"
+    },
+    {
+      "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8",
       "nama": "Life\nStyle"
     },
@@ -283,6 +288,31 @@
       "code": "1",
       "link": "https://tv.aliman.id/aliman/live.m3u8",
       "nama": "Al -iman"
+    },
+    {
+      "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch2.m3u8",
+      "nama": "Ashiil\nTV"
+    },
+    {
+      "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch4.m3u8",
+      "nama": "Ahsan\nTV"
+    },
+    {
+      "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch5.m3u8",
+      "nama": "Muadz\nTV"
+    },
+    {
+      "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch7.m3u8",
+      "nama": "Naajiya\nTV"
+    },
+    {
+      "code": "2",
+      "link": "https://flv.intechmedia.net/live/ch8.m3u8",
+      "nama": "Hijrah\nTV"
     },
     {
       "code": "1",
