@@ -26,6 +26,11 @@
     },
     {
       "code": "2",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8",
+      "nama": "RTV"
+    },
+    {
+      "code": "2",
       "link": "https://video.sindonews.com/tvshow/3?embedid=3",
       "nama": "MNCTV"
     },
