@@ -440,7 +440,7 @@
       "nama": "CCTV-4"
     },
     {
-      "code": "1",
+      "code": "2",
       "link": "https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8",
       "nama": "CCTV-5"
     },
