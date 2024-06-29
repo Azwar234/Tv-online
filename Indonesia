@@ -436,7 +436,7 @@
     },
     {
       "code": "2",
-      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c=falseVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9=false",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c=false",
       "nama": "Black\nclassic"
     },
     {
@@ -627,12 +627,12 @@
     {
       "code": "2",
       "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=cb932046-e001-4189-a871-1376aa2ec340=false",
-      "nama": "Bein\nextra"
+      "nama": "Bein sport\nextra"
     },
     {
       "code": "2",
       "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef=false",
-      "nama": "Bein\nespanyol"
+      "nama": "Bein sport\nespanyol"
     },
     {
       "code": "1",
