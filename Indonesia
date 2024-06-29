@@ -406,6 +406,11 @@
     },
     {
       "code": "1",
+      "link": "https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/index.m3u8",
+      "nama": "Bioskop\nindonesia"
+    },
+    {
+      "code": "1",
       "link": "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8",
       "nama": "TV3\nmalaysia"
     },
@@ -423,6 +428,16 @@
       "code": "1",
       "link": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
       "nama": "Astro awani\nmalaysia"
+    },
+    {
+      "code": "2",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9=false",
+      "nama": "Black\ncinema"
+    },
+    {
+      "code": "2",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c=falseVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9=false",
+      "nama": "Black\nclassic"
     },
     {
       "code": "2",
@@ -608,6 +623,16 @@
       "code": "1",
       "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
       "nama": "Mancester\nunited"
+    },
+    {
+      "code": "2",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=cb932046-e001-4189-a871-1376aa2ec340=false",
+      "nama": "Bein\nextra"
+    },
+    {
+      "code": "2",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef=false",
+      "nama": "Bein\nespanyol"
     },
     {
       "code": "1",
