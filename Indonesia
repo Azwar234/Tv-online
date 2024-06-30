@@ -82,12 +82,12 @@
     {
       "code": "1",
       "link": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8",
-      "nama": "TVRI\nWord "
+      "nama": "TVRI\nWord"
     },
     {
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8",
-      "nama": "kompas\nTV "
+      "nama": "kompas\nTV"
     },
     {
       "code": "1",
@@ -408,11 +408,6 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8",
       "nama": "Aniplus"
-    },
-    {
-      "code": "1",
-      "link": "https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/index.m3u8",
-      "nama": "Bioskop\nindonesia"
     },
     {
       "code": "1",
