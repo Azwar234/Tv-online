@@ -611,6 +611,11 @@
     },
     {
       "code": "1",
+      "link": "https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8",
+      "nama": "WWE"
+    },
+    {
+      "code": "1",
       "link": "https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8",
       "nama": "motor\nracer"
     },
@@ -668,5 +673,15 @@
       "code": "1",
       "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
       "nama": "ALL\nSport"
+    },
+    {
+      "code": "1",
+      "link": "http://edge02.odtv.az/o7/eurosport/playlist.m3u8",
+      "nama": "Euro\nSport1"
+    },
+    {
+      "code": "1",
+      "link": "http://edge02.odtv.az/o3/eurosport2/playlist.m3u8",
+      "nama": "Euro\nSport2"
     }
 ]
