@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:7075
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000,
+https://ammedia.siar.us/ammedia/live/ammedia_480p-7075.ts
+#EXTINF:10.000,
+https://ammedia.siar.us/ammedia/live/ammedia_480p-7076.ts
+#EXTINF:10.000,
+https://ammedia.siar.us/ammedia/live/ammedia_480p-7077.ts
+#EXTINF:10.000,
+https://ammedia.siar.us/ammedia/live/ammedia_480p-7078.ts
+#EXTINF:10.000,
+https://ammedia.siar.us/ammedia/live/ammedia_480p-7079.ts
