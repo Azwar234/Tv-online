@@ -402,7 +402,7 @@
     {
       "code": "2",
       "link": "https://flv.intechmedia.net/live/ch107.m3u8",
-      "nama": "Viva\nTV"
+      "nama": "VTV\nTV"
     },
     {
       "code": "2",
@@ -438,6 +438,16 @@
       "code": "1",
       "link": "https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8",
       "nama": "New K-pop\nchannel"
+    },
+    {
+      "code": "1",
+      "link": "https://raw.githubusercontent.com/Azwar234/Tv-online/main/malaysia/tv1.m3u8",
+      "nama": "TV1\nmalaysia"
+    },
+    {
+      "code": "1",
+      "link": "https://raw.githubusercontent.com/Azwar234/Tv-online/main/malaysia/Tv2.m3u8",
+      "nama": "TV2\nmalaysia"
     },
     {
       "code": "1",
