@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://mnctv-linier.rctiplus.id/hdntl=exp=1720453777~acl=%2F*~data=hdntl~hmac=dc5573213905135711347a540af4b3ed6aed42a86928aa9ba4ea4995f04ba43d/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
