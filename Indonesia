@@ -390,6 +390,11 @@
       "nama": "spacetoon"
     },
     {
+      "code": "2",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291=false",
+      "nama": "Nickelodeon"
+    },
+    {
       "code": "1",
       "link": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "nama": "monbug\nkids"
