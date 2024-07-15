@@ -430,6 +430,11 @@
       "nama": "Animax\njapan"
     },
     {
+      "code": "2",
+      "link": "https://idn.gdplayertv.to/embed/mentari-tv",
+      "nama": "mentari\nTV"
+    },
+    {
       "code": "1",
       "link": "https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8",
       "nama": "K-pop\nchannel"
@@ -443,6 +448,11 @@
       "code": "1",
       "link": "https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8",
       "nama": "New K-pop\nchannel"
+    },
+    {
+      "code": "2",
+      "link": "https://idn.gdplayertv.to/embed/citra-drama-tv",
+      "nama": "citra\ndramaa"
     },
     {
       "code": "1",
@@ -536,16 +546,6 @@
     },
     {
       "code": "2",
-      "link": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8",
-      "nama": "NaDoo\nKOREAN"
-    },
-    {
-      "code": "2",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8",
-      "nama": "NaDoo\nCOMMERCE"
-    },
-    {
-      "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8",
       "nama": "Crema\nTV"
     },
@@ -563,6 +563,16 @@
       "code": "2",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8",
       "nama": "kix"
+    },
+    {
+      "code": "2",
+      "link": "https://idn.gdplayertv.to/embed/axn-movies",
+      "nama": "AXN"
+    },
+    {
+      "code": "2",
+      "link": "https://idn.gdplayertv.to/embed/bollywood-tv",
+      "nama": "Bollywood"
     },
     {
       "code": "2",
