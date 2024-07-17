@@ -1,0 +1,866 @@
+[
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8",
+      "nama": "Antv"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8",
+      "nama": "Indosiar1"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
+      "link": "http://iptvtree.net:8080/AmirBilali/76448035/162138",
+      "nama": "Indosiar2"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/sctv.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
+      "nama": "sctv"
+    },
+    {
+      "code": "2",
+      "logo": "https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8",
+      "nama": "nettv"
+    },
+    {
+      "code": "2",
+      "logo": "https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8",
+      "nama": "RTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/channel_82.png",
+      "link": "https://video.sindonews.com/tvshow/3?embedid=3",
+      "nama": "MNCTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/channel_80.png",
+      "link": "https://video.sindonews.com/tvshow/1?embedid=1",
+      "nama": "RCTI"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/channel_80.png",
+      "link": "https://melon-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8",
+      "nama": "RCTI 2"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png",
+      "link": "https://video.sindonews.com/tvshow/2?embedid=2",
+      "nama": "GTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png",
+      "link": "https://melon-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=3-mp4a_98800=2.m3u8",
+      "nama": "GTV 2"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/channel_83.png",
+      "link": "https://video.sindonews.com/tvshow/4?embedid=4",
+      "nama": "INEWS"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/channel_110.png",
+      "link": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1318067494_b744100_sleng.m3u8",
+      "nama": "Trans7"
+    },
+    {
+      "code": "1",
+      "logo": "https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg",
+      "link": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1103762700_b344100_sleng.m3u8",
+      "nama": "TransTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/tvone.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8",
+      "nama": "tvOne"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/metro_tv.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8",
+      "nama": "Metrotv"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8",
+      "nama": "TVRI"
+    },
+    {
+      "code": "2",
+      "logo": https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Virj629ikmBS2tJQR7kih5Hl09V19gku-lQsxd5jQQHf81_epRSdG_VajHRpA76Ra1u8zZA9vc8AgW702qmEmHbF2yhz1wlZKnBSU4-kSTCth2aH4hhkUH_7__E4wrG0ZFdtos1HoSgWkcIgjatV0-epaH-ENwRT5-UVVfefStmgvZ1FEv1P1qMW/w200-h200/perfectminor_tvrisport_logo.PNG",
+      "link": "https://flv.intechmedia.net/live/ch104.m3u8",
+      "nama": "TVRI\nsport"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/SeHSi3KV4oo07RPtUg7BP9_nTj4NLl_UsmisZdEb_z1UcMnWjMDOCjfKiQKnsEd4hU99lyICWg=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8",
+      "nama": "TVRI\nWord"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.mncvision.id/userfiles/image/channel/channel_106.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8",
+      "nama": "kompas\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2",
+      "link": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8",
+      "nama": "CNN"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",
+      "link": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1702282178_b384000_sleng.m3u8",
+      "nama": "CNBC"
+    },
+    {
+      "code": "2",
+      "logo"; "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/440px-SEA_Today_Indonesia_Logo.png",
+      "link": "https://flv.intechmedia.net/live/ch106.m3u8",
+      "nama": "Sea\nToday"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/6hWF5_WQFt1Eb0VSzWaWk8xS2nTEx9wW7q6bBe0DDoQ9PqNW3y7cCj8muU03IC-98asMHNpD=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8",
+      "nama": "BTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/iR4JNV5U5Mh3ncStNrFmbAYwKCj2dmwejqAGldpDt5c7ZFXoYErW7cwgObdjBILdLJDxhDdBg4Y=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8",
+      "nama": "IDTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/gv4Y_9ctDH18HkYWlf2pQD2ihzyZCKQ-qjbJHy8cdncE7gO6tKypg4f_oYYLgi8RBhEsczHPDQ=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8",
+      "nama": "liputan 6"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.majalahict.com/wp-content/uploads/2020/02/jawa-pos-tv.jpg",
+      "link": "https://jawapostv.siar.us/jawapostv/live/playlist.m3u8",
+      "nama": "Jawa\npos"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png",
+      "link": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+      "nama": "metro\nglobal"
+    },
+    {
+      "code": "1",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Lejel_Shopping.png/revision/latest?cb=20180925101742",
+      "link": "https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8",
+      "nama": "lejel home\nshoping"
+    },
+    {
+      "code": "2",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k7iKBZprK2kGSLICkY-8kj5pMIq8BnyiTD6jAhVFZiIIo=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://flv.intechmedia.net/live/ch10.m3u8",
+      "nama": "Niaga\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8",
+      "nama": "Life\nStyle"
+    },
+    {
+      "code": "1",
+      "logo": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_786/https://www.gokerja.id/wp-content/uploads/2022/10/NTV.jpg",
+      "link": "https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8",
+      "nama": "Nusantara\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSKOtNYEI-uxkxlUiIflhEKOzvXpNFD8VC-LMFyE&s=0",
+      "link": "https://v10.siar.us/rctv/live/playlist.m3u8",
+      "nama": "RCTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Inspira_TV.png",
+      "link": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8",
+      "nama": "Inspira\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://media.licdn.com/dms/image/C560BAQFLree9gBjtrg/company-logo_200_200/0/1630668954717/bungo_tv_logo?e=2147483647&v=beta&t=ZBXvgYxkKMcBEGGNGDDYNj4mGivmr7Y4biSAQPMz_Ms",
+      "link": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
+      "nama": "Bungo\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_madutv.png",
+      "link": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+      "nama": "madu\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png",
+      "link": "https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8",
+      "nama": "Garuda\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/9-MQE_EcVzcXPju7lpH8KtNopb5VsTNk5T1KSbPjhCa-ZACfv8MR86eFGW8MiEt5VwautE15MR4=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+      "nama": "lingkar\ntv"
+    },
+    {
+      "code": "1",
+      "logo": "https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",
+      "link": "https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8",
+      "nama": "TV\nkediri"
+    },
+    {
+      "code": "1",
+      "logo": "https://assets-a1.kompasiana.com/items/album/2021/10/10/logo-baru-istimewa-6162e92124da920a8a607312.png",
+      "link": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+      "nama": "Jogja\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png",
+      "link": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+      "nama": "Bandung\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",
+      "link": "https://e.siar.us/live/surabayatv.m3u8",
+      "nama": "Surabaya"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-joH8NXPyw28KifNJFHTvJDmHFbDV9tYsorIQAE&s=0",
+      "link": "http://117.103.69.219:8080/live/streaming/index.m3u8",
+      "nama": "Batu\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/250x125/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8",
+      "nama": "moji 1"
+    },
+    {
+      "code": "1",
+      "logo": "https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/250x125/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png",
+      "link": "http://103.155.250.139:25461/v3/Ub5dHa4TJp/04",
+      "nama": "moji 2"
+    },
+    {
+      "code": "1",
+      "logo": "https://thumb.spotlight.id/image/2018/10/26/6f011eb74030801cf95e6b96d41f2640-WhatsApp-Image-2018-10-26-at-18.05.59.jpeg",
+      "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8",
+      "nama": "celebes"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-wVlQqHFXEjc2XiBupE0iqqco7uRRdRKYGJJL4c&s=0",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8",
+      "nama": "JAKTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://thumbor.prod.vidiocdn.com/k5acDY57tZ0VQ0uHwcGSIrasWx4=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg",
+      "link": "https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8",
+      "nama": "Elshinta"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.alinear.id/assets_web/images/article/daai-06_parabolakucom.jpg",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8",
+      "nama": "DAAI\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHMr2mxzMn56TJ4sRthVjy4-iX6CdPLGIa7dgdgtkWx4nFns&s",
+      "link": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8",
+      "nama": "Digi\nOne"
+    },
+    {
+      "code": "1",
+      "logo": "https://humabetang.com/public/uploads/mobile/icons/eZaQoM1KTVK99yyeF8XP8s54XXjrsJFVD0QIHuk9.png",
+      "link": "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
+      "nama": "Huma\nbetang"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/400px-MagnaChannel.png",
+      "link": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+      "nama": "MAGNA\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/gMR4CldMtlpNOYdncRQaIBYrvSD0m3IPnkTK1UxBM4-A-TUJxrVBvu9Q6qauvvwiSHjHzKGYFA=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8",
+      "nama": "Dunia\nGame"
+    },
+    {
+      "code": "1",
+      "logo": "https://garuda.tv/wp-content/uploads/2023/09/Untitled-design-9.png",
+      "link": "https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8",
+      "nama": "Garuda\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://pbs.twimg.com/profile_images/629533593329479680/Et5HpA-b_400x400.jpg",
+      "link": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
+      "nama": "SAKTI\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPWsKiG5e5v2qrPr36-cpZmJW_Ej8WLMpKGTSil00if7Mdj8&s",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8",
+      "nama": "Rodja\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/UHDmo1mTxLTPeQbAAbFbzKS9Z0rvGdJmdWot9zZocRG3eWkNu9Wc1AsSYTjoEb8K4UHt8l8xsg=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://v6.siar.us/pujatv/live/chunks.m3u8",
+      "nama": "puja\ntv aceh"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.artvisi.or.id/wp-content/uploads/2015/09/welcome.png",
+      "link": "https://streaming.yufid.com/hls/artvisi.m3u8",
+      "nama": "Artvisi"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlj8hyJbkJO29wl2x7MRbYh4xW9ePu_fRSg79vdRPvOtqKq8E&s",
+      "link": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+      "nama": "TV9"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/r0lQLIarubPwEK5GgkajuARgBc90ePLajzDzMhyXpd10gSrAkymmHMoYFyHsSfyb5lioR2otIMI=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+      "nama": "Alwafatarim"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluu2prn_8N47cD3pwmVFTKvm2e3l7QLlYRHZUsW1odHevF1c&s",
+      "link": "https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8",
+      "nama": "Fatwa\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png",
+      "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
+      "nama": "Wesal\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.lyngsat.com/logo/tv/aa/al-iman-tv-id.png",
+      "link": "https://tv.aliman.id/aliman/live.m3u8",
+      "nama": "Al -iman"
+    },
+    {
+      "code": "2",
+      "logo": "https://yt3.googleusercontent.com/WVOMXkWQbQm6rEjQCmGieOIDXnoSBD6Mml7tFpuNZI87Fm9NXeEx_CSxsJviNBsqopVreiHiAQ=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://flv.intechmedia.net/live/ch2.m3u8",
+      "nama": "Ashiil\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/0/0c/Logo_Ahsan_TV.png",
+      "link": "https://flv.intechmedia.net/live/ch4.m3u8",
+      "nama": "Ahsan\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPY_DDo_CJPS3QLXeME-jKAP9wJW-o9_lepdGJy0bOlRh5citD_bS7F6M4cDnREbV56LrxwyCk-dexi_31oa4ehUtzox-11si8cHFOzbQjmyuVU9u5W1lAusZW1UsBPQz_mx1-HjVB0Ntj/s1600/muadz-tv-channel-logo.png",
+      "link": "https://flv.intechmedia.net/live/ch5.m3u8",
+      "nama": "Muadz\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://annaajiya.or.id/wp-content/uploads/2022/11/logo-naajiyatv.jpg",
+      "link": "https://flv.intechmedia.net/live/ch7.m3u8",
+      "nama": "Naajiya\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_E0I4DEa3gxBNQ9M6hh6qHI6RzjbAkvIgedUGWB7WfZoC_Hsy&s",
+      "link": "https://flv.intechmedia.net/live/ch8.m3u8",
+      "nama": "Hijrah\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.lyngsat.com/logo/tv/rr/rasyaad-tv-id.png",
+      "link": "https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8",
+      "nama": "Rasyaad\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/_4dCoRviXAgeiMdwyXqffDZS7IEUZTK959-Pe5lP3N_o1k4W5Xo4T1E9XK00bIXUViPinpGGvg=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://ythls.armelin.one/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8",
+      "nama": "Media\nsunnah\naceh"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.mqtv.co.id/file-data/2024/06/Logo_MQTV_Original-1024x258.webp",
+      "link": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+      "nama": "MQTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqW-OIXA4aSETBDN1kGqeBsHsDY62-2HrCAlp6ZOFRoG8Imzw&s",
+      "link": "https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8",
+      "nama": "TV\nkesehatan"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png",
+      "link": "http://103.30.1.14:8080/hls/live.m3u8",
+      "nama": "TVku"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AkTV_2017.png/220px-AkTV_2017.png",
+      "link": "https://e.siar.us/live/aktv.m3u8",
+      "nama": "AkTv"
+    },
+    {
+      "code": "2",
+      'logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUtK56dvdJEn5-X1U_lYzK6wW6AsxEOW2leY65aZhlo9XjgTwwOCIFUB3RqMqTHQ5KJU0EII6Iresq1iQfRQlYJN2F2OJTXwhFxPyVEtCbfBZvYdDHxEPoigEAHqEBKx-kYPDhpIuvPJ4E/s1600/saudi-sunnah-logo.png",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8",
+      "nama": "Madinah"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/800px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8",
+      "nama": "Quran"
+    },
+    {
+      "code": "1",
+      "logo": "https://dialeksis.com/images/web/2019/04/Aljazeera-logo-English-1024x768.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/s/s16/02.m3u8",
+      "nama": "ALJAZEERA"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/800px-Spacetoon.png",
+      "link": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8",
+      "nama": "spacetoon"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291=false",
+      "nama": "Nickelodeon"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/1598px-Moonbug_Kids.svg.png",
+      "link": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "nama": "monbug\nkids"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png",
+      "link": "https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
+      "nama": "Cartoon\nNetwork"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/1024px-VTV_Indonesia_White_2023.svg.png",
+      "link": "https://flv.intechmedia.net/live/ch107.m3u8",
+      "nama": "VTV\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://tinybeans.com/wp-content/uploads/2019/07/image001.png",
+      "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "nama": "Dora\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://archive.org/download/zoo-moo-kids-2020_202006/ZooMoo-Kids-2020.png",
+      "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "nama": "Zoo\nMoo"
+    },
+    {
+      "code": "2",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lKuiKB7VZjbA_vAwdyQzRv9CBlAb-bJQL_dkzqXC1bmT4=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8",
+      "nama": "Aniplus"
+    },
+    {
+      "code": "2",
+      "logo": "https://variety.com/wp-content/uploads/2023/06/animax-logo-cr-res.jpg?w=1000&h=563&crop=1&resize=910%2C511",
+      "link": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15",
+      "nama": "Animax\njapan"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/400px-Mentari_TV.svg.png",
+      "link": "https://idn.gdplayertv.to/embed/mentari-tv",
+      "nama": "Mentari\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://pbs.twimg.com/media/FvdQn0PagAAqrJG?format=jpg&name=4096x4096",
+      "link": "https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8",
+      "nama": "K-pop\nchannel"
+    },
+    {
+      "code": "1",
+      "logo": "https://yt3.googleusercontent.com/YJZ4UwaskjvZm_hOuETiatROcBztJEda5jEqGgyY_JkaSTr7ans0B_udVLUJ8O1n4BjIoXGhlQ=s160-c-k-c0x00ffffff-no-rj",
+      "link": "https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8",
+      "nama": "K-pop 2\nchannel"
+    },
+    {
+      "code": "1",
+      "logo": "https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg",
+      "link": "https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8",
+      "nama": "New K-pop\nchannel"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQFEdmmlLmrGo1hqzikan_I6jvmYMG_gvrFD6vhQ&s=0",
+      "link": "https://raw.githubusercontent.com/Azwar234/Tv-online/main/malaysia/tv1.m3u8",
+      "nama": "TV1\nmalaysia"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbyaCrhRC5oIhlj9O7zyNrtJv5Dl_vTdGwfo5mAg&s=0",
+      "link": "https://raw.githubusercontent.com/Azwar234/Tv-online/main/malaysia/Tv2.m3u8",
+      "nama": "TV2\nmalaysia"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV3.png",
+      "link": "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8",
+      "nama": "TV3\nmalaysia"
+    },
+    {
+      "code": "1",
+      "logo": "https://idn.gdplayertv.to/assets/img/logo/dunia-sinema.png",
+      "link": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+      "nama": "Dunia sinema\nmalaysia"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgkuf6JHFGPss1mbBCiGC8ahHW6R3HmKqVLJapKU&s=0",
+      "link": "https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8",
+      "nama": "TV8\nmalaysia"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yqfuXeBX1dtAGjaSwq9Rm4kiM6cqWhI_DHWooEs&s=0",
+      "link": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
+      "nama": "Astro awani\nmalaysia"
+    },
+    {
+      "code": "2",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503",
+      "link": "https://idn.gdplayertv.to/embed/citra-drama-tv",
+      "nama": "Citra\nDrama"
+    },
+    {
+      "code": "2",
+      "logo": "http://www.cmd.ee/public/upload/images/logo/Bollywood-HD-logo.jpg",
+      "link": "https://idn.gdplayertv.to/embed/bollywood-tv/",
+      "nama": "Bollywood"
+    },
+    {
+      "code": "2",
+      "logo": "https://vhx.imgix.net/christianchildrennetwork/assets/16b4cfbd-3ec5-498b-af4d-7537e25c73f2-6a86b5fd.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9=false",
+      "nama": "Black\ncinema"
+    },
+    {
+      "code": "2",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8",
+      "nama": "MCE"
+    },
+    {
+      "code": "2",
+      "logo": "https://play-lh.googleusercontent.com/F7kryheJM-vlSy3fGkvgzaHgQNWv1XVXbgREvuoUBh_8JQmNBzgD2FDbSQ-7qJMTeEam",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h29/02.m3u8",
+      "nama": "cna"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9HeWD78gio-BCK5TU8Yh2NS712Tum0MIdFwJyC0BXhHfPng&s",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s19/02.m3u8",
+      "nama": "CCTV-4"
+    },
+    {
+      "code": "2",
+      "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8109726-9708-48ac-b7ae-68e564aa6843/df1t98y-922bf926-8143-475a-966a-be6027154b70.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MTA5NzI2LTk3MDgtNDhhYy1iN2FlLTY4ZTU2NGFhNjg0M1wvZGYxdDk4eS05MjJiZjkyNi04MTQzLTQ3NWEtOTY2YS1iZTYwMjcxNTRiNzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DsaPI2KChLgGWBvbE2HoT67yRcU3QINfwix6APs_8CA",
+      "link": "https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8",
+      "nama": "CCTV-5"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mY3h4x9myrrDBcWpvCKisHhUW1VS6rYHA6bc-1lTU7BhCPk&s",
+      "link": "https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8",
+      "nama": "CCTV-5+"
+    },
+    {
+      "code": "2",
+      "logo": "https://play-lh.googleusercontent.com/keOfJJu73cCav_y3fVjwuj2UsUVPHikke6k4vkivZE2CBEkLpG0AVzgae6rk8MF7lg",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/s/s20/02.m3u8",
+      "nama": "CGTN"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1024px-NHK_World-Japan_TV.svg.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h23/02.m3u8",
+      "nama": "NHK\nWorld"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE1t52U6CCXbvQER2-lsUaaIVpdL2p2R8AdWw6vUJb7BH1xZoYvttKMg&s=0",
+      "link": "https://op-group2-swiftservesd-1.dens.tv/s/s11/S4/mnf.m3u8",
+      "nama": "DW"
+    },
+    {
+      "code": "2",
+      "logo": "https://www.dens.tv/images/channel-logo/1.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8",
+      "nama": "Knowledge"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",
+      "link": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8",
+      "nama": "DMAX"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/400px-HGTV_2010.svg.png",
+      "link": "https://idn.gdplayertv.to/embed/hgtv",
+      "nama": "HGTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo-square.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8",
+      "nama": "Crema\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4CK_vhWuKIqXSCfE8LzwWSU6dqZfrTZk3qtneaA&s=0",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8",
+      "nama": "Rock\nentertainment"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbxnuYTYgUkWCSUw4emr0Eywlgk_D5Ay86PtNCw&s=0",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8",
+      "nama": "Rock\nAction"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/400px-KIX_logo.svg.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8",
+      "nama": "kix"
+    },
+    {
+      "code": "2",
+      "logo": "http://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8",
+      "nama": "CCM"
+    },
+    {
+      "code": "2",
+      "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png/revision/latest?cb=20210214084108",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8",
+      "nama": "celestial"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8",
+      "nama": "K+"
+    },
+    {
+      "code": "2",
+      "logo": "https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8",
+      "nama": "KBS\nkorea"
+    },
+    {
+      "code": "1",
+      "logo": "https://welcon.kocca.kr/cmm/getImage.do?atchFileId=FILE_994029d7-ed8f-4764-a9e4-6321879dace6&amp;fileSn=1&amp;thumb=",
+      "link": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8",
+      "nama": "KBS\nworld"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png",
+      "link": "https://idn.gdplayertv.to/embed/axn-movies",
+      "nama": "AXN\nMovies"
+    },
+    {
+      "code": "2",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c0/Thrill.svg/revision/latest/scale-to-width-down/250?cb=20231010141408",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8",
+      "nama": "thrill"
+    },
+    {
+      "code": "2",
+      "logo": "https://yt3.googleusercontent.com/Rx_0a7JDFELPcUyP5RaqaX7FraezYQiSBaNp1BGAAo5yQV0_MldgSH8u6sBIQejT0-ADD0QWFYc=s900-c-k-c0x00ffffff-no-rj",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8",
+      "nama": "TVN"
+    },
+    {
+      "code": "2",
+      "logo": "https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8",
+      "nama": "TVN\nMovie"
+    },
+    {
+      "code": "2",
+      "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-CINEMA-Ch.-52.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
+      "nama": "MCN"
+    },
+    {
+      "code": "2",
+      "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-CINEMA-ASIA-Ch.-53.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8",
+      "nama": "MCA"
+    },
+    {
+      "code": "2",
+      "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-FAMILY-Ch.-51.png",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
+      "nama": "MFC"
+    },
+    {
+      "code": "2",
+      "logo": "https://mncplay.id/wp-content/uploads/2023/06/MY-KIDS-Ch.-66.png",
+      "link": "https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8",
+      "nama": "M\nKidz"
+    },
+    {
+      "code": "2",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8",
+      "nama": "M+"
+    },
+    {
+      "code": "2",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8",
+      "nama": "Fight\nSport"
+    },
+    {
+      "code": "1",
+      "logo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "link": "https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8",
+      "nama": "WWE"
+    },
+    {
+      "code": "1",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg",
+      "link": "https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8",
+      "nama": "motor\nracer"
+    },
+    {
+      "code": "2",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8",
+      "nama": "Horizon\nSport"
+    },
+    {
+      "code": "1",
+      "logo": "https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png?q=65&auto=format&w=1600&ar=2:1&fit=crop",
+      "link": "http://117tv.icu:8080/live/X5xRz0/944877/57471.m3u8",
+      "nama": "Fishing\nNetwork"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.pinimg.com/originals/0a/f0/95/0af095e52d154231e82d0f906db389ce.png",
+      "link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+      "nama": "Tennis\nChannel"
+    },
+    {
+      "code": "2",
+      "logo": "http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg",
+      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8",
+      "nama": "Wsport\nTV"
+    },
+    {
+      "code": "2",
+      "logo": "https://i0.wp.com/tmcblog.com/wp-content/uploads/2021/11/Logo-WSBK-baru2.jpg?ssl=1",
+      "link": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+      "nama": "Super bike"
+    },
+    {
+      "code": "1",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrFYcze4nCUtDreBXNoREJpJipi70uRPzmsnmncV-XDtxpzvL6&s",
+      "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "nama": "Real\nmadrid"
+    },
+    {
+      "code": "1",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/640px-Manchester_United_FC_crest.svg.png",
+      "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+      "nama": "Mancester\nunited"
+    },
+    {
+      "code": "2",
+      "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1SNOUh96KiKWFH6w4xaXXuikIksx7-DPq8IsRPOf6ot8w7qUe",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=cb932046-e001-4189-a871-1376aa2ec340=false",
+      "nama": "Bein sport\nextra"
+    },
+    {
+      "code": "2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1600px-BeIN_Sports_En_Espa%C3%B1ol.png?20210709132434",
+      "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef=false",
+      "nama": "Bein sport\nespanyol"
+    },
+    {
+      "code": "1",
+      "logo": "https://m.media-amazon.com/images/I/91ucUvJMxOL.png",
+      "link": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+      "nama": "Sports\nTV"
+    },
+    {
+      "code": "1",
+      "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/37a7f2bbd24082bb8f947686020c3e82.webp",
+      "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
+      "nama": "ALL\nSport"
+    },
+    {
+      "code": "1",
+      "logo": "https://img.static-rmg.be/a/view/q75/w1600/h836/5758067/76-png.png",
+      "link": "http://edge02.odtv.az/o7/eurosport/playlist.m3u8",
+      "nama": "Euro\nSport1"
+    },
+    {
+      "code": "1",
+      "logo": "https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",
+      "link": "http://edge02.odtv.az/o3/eurosport2/playlist.m3u8",
+      "nama": "Euro\nSport2"
+    }
+]
