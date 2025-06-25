@@ -1,11 +1,12 @@
 [
     {
+      "code": "1",
       "logo": "https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",
       "link": "https://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8",
       "nama": "Antv"
     },
     {
-      "code": "2",
+      "code": "1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8",
       "nama": "Indosiar1"
@@ -17,6 +18,7 @@
       "nama": "Indosiar2"
     },
     {
+      "code": "1",
       "logo": "https://www.mncvision.id/userfiles/image/channel/sctv.png",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
       "nama": "sctv"
@@ -28,7 +30,7 @@
       "nama": "nettv"
     },
     {
-      "code": "2",
+      "code": "1",
       "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyKEokc-oUXftEcN5CrpVMOkn1bcRK7tIjQ1MvdY4-mlZyss78rbbjXeLGE4K3Lc7MDRaud0_ePnTzWz5nPZjumty6Yksofkj-QaZPIHFj-Sf6Q_LPuIV-phZLWZ92rSQ-h-wTcgFTUSIwrsn6Zg6D6Q0U_HNeGPPHK-AJvMqfwlEnmPRuYoduUJFgN6R-/w256-h256-p-k-no-nu/mosque-3858508_1280.jpg",
       "link": "https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8",
       "nama": "RTV"
