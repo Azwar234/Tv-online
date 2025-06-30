@@ -1,39 +1,93 @@
 [
     {
       "code": "1",
-      "logo": "https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8",
-      "nama": "Antv"
+      "logo": "https://i.imgur.com/Jkx9W88_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://cdn6.163189.xyz/live/8tv/stream.m3u8",
+      "nama": "8TV"
     },
     {
       "code": "1",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8",
-      "nama": "Indosiar1"
+      "logo": "https://i.imgur.com/dLzgBUj_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
+      "nama": "ASTRO\nAWANI"
     },
     {
       "code": "1",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
-      "link": "http://iptvtree.net:8080/AmirBilali/76448035/162138",
-      "nama": "Indosiar2"
+      "logo": "https://i.imgur.com/7J98X4F_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8",
+      "nama": "ASTRO BOX OFFICE\nTHANGATHIRAL"
     },
     {
       "code": "1",
-      "logo": "https://www.mncvision.id/userfiles/image/channel/sctv.png",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
-      "nama": "sctv"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Astro_Vaanavil_%282024%29_01.png/1100px-Astro_Vaanavil_%282024%29_01.png",
+      "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8",
+      "nama": "ASTRO\nVAANAVIL"
     },
     {
       "code": "1",
-      "logo": "https://yt3.googleusercontent.com/SeHSi3KV4oo07RPtUg7BP9_nTj4NLl_UsmisZdEb_z1UcMnWjMDOCjfKiQKnsEd4hU99lyICWg=s160-c-k-c0x00ffffff-no-rj",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8",
-      "nama": "nettv"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Astro_Vinmeen_%282024%29.png/512px-Astro_Vinmeen_%282024%29.png",
+      "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8",
+      "nama": "ASTRO\nVINMEEN"
     },
     {
       "code": "1",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyKEokc-oUXftEcN5CrpVMOkn1bcRK7tIjQ1MvdY4-mlZyss78rbbjXeLGE4K3Lc7MDRaud0_ePnTzWz5nPZjumty6Yksofkj-QaZPIHFj-Sf6Q_LPuIV-phZLWZ92rSQ-h-wTcgFTUSIwrsn6Zg6D6Q0U_HNeGPPHK-AJvMqfwlEnmPRuYoduUJFgN6R-/w256-h256-p-k-no-nu/mosque-3858508_1280.jpg",
-      "link": "https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8",
-      "nama": "RTV"
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-Of8XiuKLgns3y5JvzJOehkv8OVbPyxV3A&usqp=CAU",
+      "link": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+      "nama": "DUNIA\nSINEMA"
+    },
+    {
+      "code": "1",
+      "logo": "https://uc.xyz/20xL24?pub=link",
+      "link": "https://hls.maahtv.live/hls/stream.m3u8",
+      "nama": "Maah TV"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.imgur.com/V2jREQ5_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+      "nama": "Okey TV"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.imgur.com/skAiUxg_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+      "nama": "RTM\nASEAN"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+      "nama": "RTM Parlemen\nDewan Negara"
+    },
+    { 
+      "code": "1",
+      "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+      "nama": "RTM Parlemen\nDewan Rakyat"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.imgur.com/wSyPmiY_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+      "nama": "TV1"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.imgur.com/LGEdeyJ_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+      "nama": "TV2"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.imgur.com/bK8UH9D_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+      "nama": "TV6"
+    },
+    {
+      "code": "1",
+      "logo": "https://i.imgur.com/X6JKNEE_d.webp?maxwidth=760&fidelity=grand",
+      "link": "https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8",
+      "nama": "TVIKIM"
     }
 ]
     
