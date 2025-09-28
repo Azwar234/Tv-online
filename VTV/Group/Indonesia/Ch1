@@ -9,3 +9,64 @@
 "license1": "d386001215594043a8995db796ad9e9c",
 "licenseType:": "org.w3.clearkey"
 },
+{
+"title": "MNCTV",
+"icon": "MNCTV.png",
+"web": "2",
+"url1": "d2xz2v5wuvgur6.cloudfront.net/out/v1",
+"httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+"httpReferrer": "https://www.visionplus.id/",
+"license1": "c3004565365a42d08e3bde39a516d64e",
+"licenseType:": "org.w3.clearkey"
+},
+{
+"title": "GTV",
+"icon": "GTV.png",
+"web": "2",
+"url1": "d2tjypxxy769fn.cloudfront.net/out/v1",
+"httpUserAgent": "ExoPlayerDemo/2.15.1",
+"httpReferrer": "https://www.visionplus.id/",
+"license1": "036e85de0bb448eeb21d39ab300da48e",
+"licenseType:": "org.w3.clearkey"
+},
+{
+"title": "Indosiar",
+"icon": "Indosiar.png",
+"web": "2",
+"url1": "atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD",
+"httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+"httpReferrer": "https://www.visionplus.id/",
+"license1": "5eaddccd893a47ac8b65f9b31963a3ae",
+"licenseType:": "org.w3.clearkey"
+},
+{
+"title": "SCTV",
+"icon": "SCTV.png",
+"web": "2",
+"url1": "atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD",
+"httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+"httpReferrer": "https://www.visionplus.id/",
+"license1": "a79a188263724bfcaafc4a7c3b3cd8ce",
+"licenseType:": "org.w3.clearkey"
+},
+{
+"title": "Trans 7",
+"icon": "Trans7.png",
+"web": "2",
+"url1": "atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD",
+"httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+"httpReferrer": "https://www.visionplus.id/",
+"license1": "16e50b43a8fe4f9d8ed63a436161a28b",
+"licenseType:": "org.w3.clearkey"
+},
+{
+"title": "Trans TV",
+"icon": "TransTV.png",
+"web": "2",
+"url1": "atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD",
+"httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+"httpReferrer": "https://www.visionplus.id/",
+"license1": "203388a3ab9b4e0b99552f6669c4eea9",
+"licenseType:": "org.w3.clearkey"
+}
+]
