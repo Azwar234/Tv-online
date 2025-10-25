@@ -15,11 +15,7 @@
 "icon": "RCTI.png",
 "code": "2",
 "ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct",
-"cod": "m",
-"httpUserAgent": "",
-"httpReferrer": "",
-"license": "",
-"licenseType:": ""
+"cod": "m"
 },
 {
 "title": "MNCTV 1",
@@ -37,11 +33,7 @@
 "icon": "MNCTV.png",
 "code": "2",
 "ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc",
-"cod": "m",
-"httpUserAgent": "",
-"httpReferrer": "",
-"license": "",
-"licenseType:": ""
+"cod": "m"
 },
 {
 "title": "GTV 1",
@@ -59,33 +51,21 @@
 "icon": "GTV.png",
 "code": "2",
 "ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Glob",
-"cod": "m",
-"httpUserAgent": "",
-"httpReferrer": "",
-"license": "",
-"licenseType:": ""
+"cod": "m"
 },
 {
 "title": "indosiar 1",
 "icon": "indosiar.png",
 "code": "2",
 "ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos",
-"cod": "m",
-"httpUserAgent": "",
-"httpReferrer": "",
-"license": "",
-"licenseType:": ""
+"cod": "m"
 },
 {
 "title": "indosiar 2",
 "icon": "indosiar.png",
 "code": "1",
 "ul": "op-group1-swiftservehd-1.dens.tv/h/h235/02",
-"cod": "m",
-"httpUserAgent": "",
-"httpReferrer": "",
-"license": "",
-"licenseType:": ""
+"cod": "m"
 },
 {
 "title": "SCTV",
@@ -116,7 +96,6 @@
 "ul": "atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD",
 "cod": "mp",
 "httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
-"httpReferrer": "",
 "license": "16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30",
 "licenseType:": "org.w3.clearkey"
 },
@@ -125,10 +104,6 @@
 "icon": "Trans7.png",
 "code": "2",
 "ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7",
-"cod": "m",
-"httpUserAgent": "",
-"httpReferrer": "",
-"license": "",
-"licenseType:": ""
+"cod": "m"
 }
 ]
