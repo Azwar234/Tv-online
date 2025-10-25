@@ -68,45 +68,5 @@
 "httpReferrer": "https://www.visionplus.id/",
 "license1": "203388a3ab9b4e0b99552f6669c4eea9",
 "licenseType:": "org.w3.clearkey"
-},
-{
-"title": "ANTV",
-"icon": "ANTV.png",
-"web": "2",
-"url1": "fta1-cdn-flr.visionplus.id/out/v1",
-"httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/65.0.3325.181 Safari/537.36",
-"httpReferrer": "https://www.visionplus.id/",
-"license1": "251c384e846841abafa1f7c723d57e66",
-"licenseType:": "org.w3.clearkey"
-},
-{
-"title": "ANTV",
-"icon": "ANTV.png",
-"web": "2",
-"url1": "fta1-cdn-flr.visionplus.id/out/v1",
-"httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/65.0.3325.181 Safari/537.36",
-"httpReferrer": "https://www.visionplus.id/",
-"license1": "251c384e846841abafa1f7c723d57e66",
-"licenseType:": "org.w3.clearkey"
-},
-{
-"title": "MOJI",
-"icon": "MOJI.png",
-"web": "2",
-"url1": "fta1-cdn-flr.visionplus.id/out/v1",
-"httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/65.0.3325.181 Safari/537.36",
-"httpReferrer": "https://www.visionplus.id/",
-"license1": "251c384e846841abafa1f7c723d57e66",
-"licenseType:": "org.w3.clearkey"
-},
-{
-"title": "MDTV",
-"icon": "MDTV.png",
-"web": "2",
-"url1": "fta1-cdn-flr.visionplus.id/out/v1",
-"httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/65.0.3325.181 Safari/537.36",
-"httpReferrer": "https://www.visionplus.id/",
-"license1": "251c384e846841abafa1f7c723d57e66",
-"licenseType:": "org.w3.clearkey"
 }
 ]
