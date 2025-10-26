@@ -13,7 +13,11 @@
 "title": "RCTI 2",
 "icon": "RCTI.png",
 "code": "2",
-"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct.m3u8"
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType:": ""
 },
 {
 "title": "MNCTV 1",
@@ -29,7 +33,11 @@
 "title": "MNCTV 2",
 "icon": "MNCTV.png",
 "code": "2",
-"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc.m3u8"
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType:": ""
 },
 {
 "title": "GTV 1",
@@ -45,25 +53,37 @@
 "title": "GTV 2",
 "icon": "GTV.png",
 "code": "2",
-"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Glob.m3u8"
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Glob.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType:": ""
 },
 {
 "title": "indosiar 1",
 "icon": "indosiar.png",
 "code": "2",
-"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8"
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType:": ""
 },
 {
 "title": "indosiar 2",
 "icon": "indosiar.png",
 "code": "1",
-"ul": "op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8"
+"ul": "op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType:": ""
 },
 {
 "title": "SCTV",
 "icon": "SCTV.png",
 "code": "2",
-"ul": "atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd"
+"ul": "atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd",
 "httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
 "httpReferrer": "https://www.visionplus.id/",
 "license": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
@@ -85,6 +105,7 @@
 "code": "2",
 "ul": "atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd",
 "httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+"httpReferrer": "",
 "license": "16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30",
 "licenseType:": "org.w3.clearkey"
 },
@@ -92,6 +113,10 @@
 "title": "Trans7 2",
 "icon": "Trans7.png",
 "code": "2",
-"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8"
-}
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType:": ""
+},
 ]
