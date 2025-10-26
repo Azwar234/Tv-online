@@ -7,7 +7,17 @@
 "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 "httpReferrer": "https://www.visionplus.id/",
 "license": "d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298",
-"licenseType:": "org.w3.clearkey"
+"licenseType": "org.w3.clearkey"
+},
+{
+"title": "RCTI 2",
+"icon": "RCTI.png",
+"code": "2",
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType": ""
 },
 {
 "title": "MNCTV 1",
@@ -17,7 +27,17 @@
 "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 "httpReferrer": "https://www.visionplus.id/",
 "license": "c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a",
-"licenseType:": "org.w3.clearkey"
+"licenseType": "org.w3.clearkey"
+},
+{
+"title": "MNCTV 2",
+"icon": "MNCTV.png",
+"code": "2",
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType": ""
 },
 {
 "title": "GTV 1",
@@ -27,7 +47,37 @@
 "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 "httpReferrer": "https://www.visionplus.id/",
 "license": "036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d",
-"licenseType:": "org.w3.clearkey"
+"licenseType": "org.w3.clearkey"
+},
+{
+"title": "GTV 2",
+"icon": "GTV.png",
+"code": "2",
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Glob.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType": ""
+},
+{
+"title": "indosiar 1",
+"icon": "indosiar.png",
+"code": "2",
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType": ""
+},
+{
+"title": "indosiar 2",
+"icon": "indosiar.png",
+"code": "1",
+"ul": "op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType": ""
 },
 {
 "title": "SCTV",
@@ -37,7 +87,7 @@
 "httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
 "httpReferrer": "https://www.visionplus.id/",
 "license": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
-"licenseType:": "org.w3.clearkey"
+"licenseType": "org.w3.clearkey"
 },
 {
 "title": "ANTV",
@@ -47,7 +97,7 @@
 "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
 "httpReferrer": "https://www.visionplus.id/",
 "license": "c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a",
-"licenseType:": "org.w3.clearkey"
+"licenseType": "org.w3.clearkey"
 },
 {
 "title": "Trans7 1",
@@ -55,8 +105,18 @@
 "code": "2",
 "ul": "atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd",
 "httpUserAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
-"httpReferrer": "exoplayer",
+"httpReferrer": "",
 "license": "16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30",
-"licenseType:": "org.w3.clearkey"
-}
+"licenseType": "org.w3.clearkey"
+},
+{
+"title": "Trans7 2",
+"icon": "Trans7.png",
+"code": "2",
+"ul": "raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8",
+"httpUserAgent": "",
+"httpReferrer": "",
+"license": "",
+"licenseType": ""
+},
 ]
