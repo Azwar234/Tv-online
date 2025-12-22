@@ -1,0 +1,137 @@
+[
+{
+"title": "TVIKIM",
+"code": "2",
+"ul": "edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "Dunia Sinema",
+"code": "2",
+"ul": "unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "RTM ASEAN",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "RTM Dewan Negara",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+"httpUserAgent": " ",
+"httpReferrer": "https://rtm-player.glueapi.io/",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "RTM Dewan Rakyat",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+"httpUserAgent": " ",
+"httpReferrer": "https://rtm-player.glueapi.io/",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "maah Tv",
+"code": "2",
+"ul": "hls.maahtv.live/hls/stream.m3u8",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "8Tv",
+"code": "2",
+"ul": "unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": "a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d",
+"licenseType": "org.w3.clearkey"
+},
+{
+"title": "Berita RTM",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+"httpUserAgent": " ",
+"httpReferrer": "https://rtm-player.glueapi.io/",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "Okey Tv",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+"httpUserAgent": " ",
+"httpReferrer": "https://rtm-player.glueapi.io/",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "Pro Sport",
+"code": "2",
+"ul": "proshls.wns.live/hls/stream.m3u8",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "Sukan RTM",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "TV1",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "TV2",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "TV6",
+"code": "2",
+"ul": "d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+"httpUserAgent": " ",
+"httpReferrer": "https://rtm-player.glueapi.io/https://github.com/MIFNtechnology/siaranMy/tree/main/channels",
+"license": " ",
+"licenseType": " "
+},
+{
+"title": "TV9",
+"code": "2",
+"ul": "unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd",
+"httpUserAgent": " ",
+"httpReferrer": " ",
+"license": "1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4",
+"licenseType": "org.w3.clearkey"
+}
+]
